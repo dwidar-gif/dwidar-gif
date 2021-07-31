@@ -27,7 +27,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 ## Certifications
 Dicoding [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/MRZMG5Q2NZYQ).\
 Dicoding [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/L4PQMKE42ZO1).\
-Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/NVP7GDVJVXR0).\
+Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/NVP7GDVJVXR0).
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br><br><br><br><br><br><br>
