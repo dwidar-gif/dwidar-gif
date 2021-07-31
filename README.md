@@ -5,6 +5,7 @@ Saya seorang **Field Cordinator Academic** di [Diginusa](http://www.diginusa.com
 Saat ini saya sedang belajar tentang android developer di Dicoding.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/dwidar13)ku ya.
 
+# Statistik
 <p align="left">
 <a href="https://github.com/dwidar-gif">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwidar-gif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
