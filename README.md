@@ -30,7 +30,7 @@ Dicoding [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/M
 Dicoding [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/L4PQMKE42ZO1).\
 Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/NVP7GDVJVXR0).\
 Dicoding [Belajar Dasar Git dan GitHub](https://www.dicoding.com/certificates/GRX5KDE0YZ0M).\
-Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/GRX5KDE0YZ0M).
+Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/98XWK0J0LXM3).
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br><br><br><br><br><br><br>
