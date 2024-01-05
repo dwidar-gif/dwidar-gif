@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dwi Darmawan</h1>
 
 
-Saya seorang **Field Cordinator Academic** di [Diginusa](http://www.diginusa.com/).\
+Saya seorang **Field Cordinator Academic** di [Diginusa](http://www.diginusa.com/) selama 3 tahun.\
 Saat ini saya sedang belajar tentang android developer menggunakan bahasa kotlin.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/dwidar13)ku ya.
 
