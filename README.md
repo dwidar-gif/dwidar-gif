@@ -4,7 +4,7 @@
 
 
 Saya seorang **Field Cordinator Academic** di [Diginusa](http://www.diginusa.com/) selama 3 tahun.\
-Saat ini saya sedang belajar tentang android developer menggunakan bahasa kotlin.\
+Saat ini saya sedang belajar tentang database administrator.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/dwidar13)ku ya.
 
 ### Github Statistic
